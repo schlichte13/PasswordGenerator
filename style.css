@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+}
+
+h3 {
+    text-indent: 250px;
+    padding: 0 250px;
+}
+
+.button {
+    position: relative;
+    right: 100px;
+}
